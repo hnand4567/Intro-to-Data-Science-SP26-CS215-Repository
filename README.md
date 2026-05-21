@@ -16,4 +16,15 @@ Project Area/Topic 3: Spotify Music Analysis
 - Question 2: How do different genres differ in their musical characteristics?
 - Question 3: Can clustering techniques identify natural groupings of songs based on audio features?
 
+Week 10 Update: current project topic and plan. 
+- Chosen general project topic/area: Spotify Music Analysis (I will be doing this project on my own)
+- Data sources I am considering:
+    - my Spotify Data (pro: it is more personal, con: I will have to wait a bit to get it)
+    - A dataset I can find online (pro: easily accessible, con: it won't be as personal to me)
+- Some Questions to be explored through my data analysis:
+  1. Which audio features are most associated with song popularity?
+  2. Do more danceable or energetic songs tend to be more popular?  
+  3. How do different genres differ in their musical characteristics?  
+
+
 
