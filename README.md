@@ -1,4 +1,4 @@
-# Intro-to-Data-Science-SP26-CS215-Repositor
+# Intro-to-Data-Science-SP26-CS215-Repository
 Week 9 Learning Log - GitHub Pages & Final Project Brainstorming Assignment
 Project Area/Topic 1: Bioinformatics
 - Question 1: Can gene expression patterns distinguish between healthy and diseased samples?
